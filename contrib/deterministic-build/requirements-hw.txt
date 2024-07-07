@@ -8,7 +8,7 @@ btchip-python==0.1.32 \
     --hash=sha256:34f5e0c161c08f65dc0d070ba2ff4c315ed21c4b7e0faa32a46862d0dc1b8f55
 cbor==1.0.0 \
     --hash=sha256:13225a262ddf5615cbd9fd55a76a0d53069d18b07d2e9f19c39e6acb8609bbb6
-certifi==2024.2.2 \
+certifi==2024.7.4 \
     --hash=sha256:0569859f95fc761b18b45ef421b1290a0f65f147e92a1e5eb3e635f9a5e4e66f \
     --hash=sha256:dc383c07b76109f368f6106eee2b593b04a011ea4d55f652c6ca24a754d1cdd1
 cffi==1.16.0 \
